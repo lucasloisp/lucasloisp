@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Senior Mobile Developer working remotely on US companies**.
+**Senior Mobile Developer working remotely on exciting companies**.
 
-- 🏢 Working as a **Senior Mobile Tech Lead** @ [Qubika](https://github.com/thisisqubika).
+- 🏢 Working as a **Software Engineer** @ [Bread](https://www.madebybread.com).
 - 🔭 Daily tinkering with React Native & Typestrict.
-- 🌱 Driving initiatives to promote learning in our dev teams.
-- 🎓 Computing Engineer graduate, 5 year degree with a CS focus.
+- 🎓 Computing Engineer graduate, with a CS focus.
 - 🤓 Interested in learning new languages and styles.
 - 📫 Get in touch! <a href="https://www.linkedin.com/in/lucasloisp"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
