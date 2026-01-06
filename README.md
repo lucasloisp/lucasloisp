@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 **Senior Engineer working remotely on exciting companies**.
 
-- 🏢 Working as a **Software Engineer** @ [Bread](https://www.madebybread.com).
-- 🔭 Daily tinkering with React Native & Typestrict.
+- 🏢 Working as a **Senior Software Engineer** @ [Stripe](https://stripe.com/) building [Privy](https://www.privy.io/).
+- ✍️ I share my thoughts at [lucasloisp.com](https://www.lucasloisp.com).
+- 🔭 I love divind deep. Working on a brand new stack is what I do best.
 - 🎓 Computing Engineer graduate, with a CS focus.
-- 🤓 Interested in learning new languages and styles.
+- 🤓 Always looking for a new language or programming style.
 - 📫 Get in touch! <a href="https://www.linkedin.com/in/lucasloisp"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
